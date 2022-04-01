@@ -9,14 +9,18 @@ Format: google spreadsheet.
 
 Structure: It had columns for “lemma” in Andi, “morphology” column with a list of possible word form endings for this lemma, “pos” with a part of speech tags. “concepticon” column is practically empty, but meant to have a semantic field to which this lemma belongs. “meaning_ru” is the column with a translation(s) to Russian. “ipa” is the column with phonetic representation in IPA (link) of this lemma. Last but not the least, “definition” column presents the dictionary definition of the Andi lemma where basically all previous information is accumulated.
 Dictionary volume: 9 378 items.
+
 Source: Comparative Andic dictionary database
+
 Source link: https://github.com/phon-dicts-project/comparative_andic_dictionary_database 
 
 Chukchi dictionary
 
 Format: .txt file
 Structure: each dictionary item is called a lexeme. Each lexeme had the following tags: the “lex” tag for a citation form, the "gramm" tag to describe part of speech, the "stem" tag for written representation, e.g. айгоонкэн and the "trans_ru" tag for the translation.
+
 Dictionary volume: 6 278 items.
+
 Source link:https://cloud.mail.ru/public/FpFp/E7FTLRhB2/%D0%9B%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%B0/%D0%A1%D0%BB%D0%BE%D0%B2%D0%B0%D1%80%D0%B8/
 
 To create a database of dictionaries were parsed and automatically converted to RDF format. Ontolex markup was applied to the data. 
