@@ -8,6 +8,7 @@ Andi dictionary
 Format: google spreadsheet. 
 
 Structure: It had columns for “lemma” in Andi, “morphology” column with a list of possible word form endings for this lemma, “pos” with a part of speech tags. “concepticon” column is practically empty, but meant to have a semantic field to which this lemma belongs. “meaning_ru” is the column with a translation(s) to Russian. “ipa” is the column with phonetic representation in IPA (link) of this lemma. Last but not the least, “definition” column presents the dictionary definition of the Andi lemma where basically all previous information is accumulated.
+
 Dictionary volume: 9 378 items.
 
 Source: Comparative Andic dictionary database
