@@ -21,18 +21,22 @@ Structure: each dictionary item is called a lexeme. Each lexeme had the followin
 
 Dictionary volume: 6 278 items.
 
-Source link:https://cloud.mail.ru/public/FpFp/E7FTLRhB2/%D0%9B%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%B0/%D0%A1%D0%BB%D0%BE%D0%B2%D0%B0%D1%80%D0%B8/
+Source link: https://cloud.mail.ru/public/FpFp/E7FTLRhB2/%D0%9B%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%B0/%D0%A1%D0%BB%D0%BE%D0%B2%D0%B0%D1%80%D0%B8/
 
 To create a database of dictionaries were parsed and automatically converted to RDF format. Ontolex markup was applied to the data. 
+
 The dataset we obtained is here: https://drive.google.com/drive/folders/1LnaplC8n5dA4EVtGTN1qf_A66p5ddbx7?usp=sharing
 
 The final product is a database based on marked dictionaries, where one can use SPARQL to find dictionary information on lexical units. In the final product, dictionaries are maximally recognized and all grammatical information is structured within the framework of the ontology. 
 
 
 Link to the project code: https://github.com/Pandaklez/Field-NLP-Lexicon
+
 Publication link: https://docs.google.com/document/d/1uJWOf6fw32II6Ksc7XeiJv8Z8u2kpOt3T9w3Wix_veI/edit?usp=sharing
+
 Link to the service where the final product is applied: http://87.247.157.119:5000/ 
 
-One can quot us by using these links.HSE CompLing Project 2020-2021
+One can quot us by using these links.HSE CompLing Project 2020-2021.
+
 Here is the link to the final andi RDF and to the dataset we were working with
 https://drive.google.com/drive/folders/1LnaplC8n5dA4EVtGTN1qf_A66p5ddbx7?usp=sharing
