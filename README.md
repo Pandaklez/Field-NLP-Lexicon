@@ -37,7 +37,7 @@ Publication link: https://docs.google.com/document/d/1uJWOf6fw32II6Ksc7XeiJv8Z8u
 
 Link to the service where the final product is applied: http://87.247.157.119:5000/ 
 
-One can quot us by using these links.HSE CompLing Project 2020-2021.
+One can quote us by using these links.HSE CompLing Project 2020-2021.
 
 Here is the link to the final andi RDF and to the dataset we were working with
 https://drive.google.com/drive/folders/1LnaplC8n5dA4EVtGTN1qf_A66p5ddbx7?usp=sharing
