@@ -3,7 +3,7 @@ The project was developed by students of the Master's program in Computational L
 
 The tasks of the project included the creation of an RDF database from Andi and Chukchi dictionaries. Links to resources were shared with us by our colleagues from the HSE School of Linguistics. Dictionaries have already been marked up, their structure will be described below. 
 
-Andi dictionary
+*Andi dictionary*
 
 Format: google spreadsheet. 
 
@@ -15,7 +15,7 @@ Source: Comparative Andic dictionary database
 
 Source link: https://github.com/phon-dicts-project/comparative_andic_dictionary_database 
 
-Chukchi dictionary
+*Chukchi dictionary*
 
 Format: .txt file
 Structure: each dictionary item is called a lexeme. Each lexeme had the following tags: the “lex” tag for a citation form, the "gramm" tag to describe part of speech, the "stem" tag for written representation, e.g. айгоонкэн and the "trans_ru" tag for the translation.
@@ -33,8 +33,7 @@ The final product is a database based on marked dictionaries, where one can use 
 
 Link to the project code: https://github.com/Pandaklez/Field-NLP-Lexicon
 
-Publication link: https://docs.google.com/document/d/1uJWOf6fw32II6Ksc7XeiJv8Z8u2kpOt3T9w3Wix_veI/edit?usp=sharing
-
+Course paper link: https://docs.google.com/document/d/1uJWOf6fw32II6Ksc7XeiJv8Z8u2kpOt3T9w3Wix_veI/edit?usp=shari
 Link to the service where the final product is applied: http://87.247.157.119:5000/ 
 
 One can quote us by using these links.HSE CompLing Project 2020-2021.
